@@ -1,5 +1,7 @@
-Site Produzido para demonstração do Produto
+Site Produzido para demonstraÃ§Ã£o do Produto
 
 Criador Talita Novacoski
+
+Time: Vanessa , John, Bruno e Vagner
 
 
